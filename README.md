@@ -103,6 +103,4 @@ Os notebooks devem ser executados estritamente na ordem sequencial:
 ---
 
 ## Contato
-- **Discente:** Wallison Valdemiro Silvino Dias
 - **Email:** wallison.dias.711@ufrn.edu.br
-- **Instituição:** Universidade Federal do Rio Grande do Norte (UFRN)
